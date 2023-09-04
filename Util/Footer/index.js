@@ -35,7 +35,7 @@ export const FooterArray = [
           },
           {
             linkIcon: FaFacebookF,
-            link: `https://www.facebook.com/zeespacehub/`,
+            link: `https://www.facebook.com/profile.php?id=100091861058102&mibextid=ZbWKwL`,
             classbody: "linkbody",
             classname: "linkclass",
             classlinkicon: "linkicon",
@@ -179,6 +179,6 @@ export const FooterArray = [
   {
     classmain: "secondlayout",
     classname: "secondlayoutname",
-    text: "Zeespace Nigeria © 2022.| All Rights Reserved.",
+    text: "Zeespace Nigeria © 2022-2023.| All Rights Reserved.",
   },
 ];

@@ -50,9 +50,9 @@ export const ClientProjectsArray = [
   {
     CCardArray: [
       {
-        header: "PoshTok Chat Application",
+        header: "PoshTok Application",
         paragraph:
-          "PoshTok Chat App built for short form of videos and messaging.",
+          "PoshTok App built for mobile short videos, chatting, dating and entertainment.",
         link: "/case",
         linkText: "Discover the Project",
         linkIcon: FaArrowRight,

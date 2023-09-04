@@ -13,15 +13,17 @@ const ContactPageComp = () => {
       <HeroSubSection herosubsectionarray={ContactHeroArray} />
       <div className="contact-info">
         <p className="contact-info-p">
-          Contact Us For Ready Product, Modification, Management, New idea, Training ETC. We Are Always Happy To Help And We Are Not
-          Afraid Of Even The Craziest Questions And Proposals. Just Contact Us!
+          Contact Us For Ready Product, Modification, Management, New idea,
+          Training ETC. We Are Always Happy To Help And We Are Not Afraid Of
+          Even The Craziest Questions And Proposals. Just Contact Us!
         </p>
         <div className="line-through"></div>
         <div className="contact-address">
           <p>Contact Us For Business</p>
           <p> 08103568291</p>
-          <p>08085380445</p>
-          <p> contact@zeespacenigeria.com</p>
+          <p> 08085380445</p>
+          <p> contact@zeespacenigeria.com OR zeespacenig@gmail.com</p>
+
           <div className="icons">
             <Link href={"www.twitter.com/zeespacenigeria"}>
               <a>

@@ -36,10 +36,10 @@ export const caseArr = [
   {
     ccardArray: [
       {
-        header: "Poshtok Chat Application",
+        header: "Poshtok Application",
         // subHeader: "Education   e-Commerce",
         paragraph:
-          "App built for creating short form of mobile videos and messaging and entertainments.",
+          "App built for creating mobile short videos, chatting, dating and entertainments.",
         // linkText: "Discover the project",
         // linkIcon: FaArrowRight,
       },

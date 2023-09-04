@@ -177,16 +177,13 @@ const HomePage = ({ theme, companyArray }) => {
         </div>
 
         <div className={"partners"}>
-          <HeadingSection
-            title={"Our Partners"}
-            paragraph={
-              ""
-            }
-          />
+          <HeadingSection title={"Our Partners"} paragraph={""} />
           <div className={"partnersbody"}>
             <div className={"partnersbodyOne"}>
               <p>
-                Together with our partners, we shape the future of digital World.
+                Together with our partner Peter O. Communications Nigeria
+                Limited, we shape the future of digital World And
+                Entertainments.
               </p>
             </div>
             <div className={"partnersbodyTwo"}>
@@ -205,11 +202,7 @@ const HomePage = ({ theme, companyArray }) => {
           </div>
         </div>
         <div className={"developer"}>
-          <HeadingSection
-            subtitle={
-              ""
-            }
-          />
+          <HeadingSection subtitle={""} />
           <div>
             <C_Cards ccardArray={DeveloperArray} />
           </div>
