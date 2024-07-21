@@ -20,9 +20,9 @@ const ContactPageComp = () => {
         <div className="line-through"></div>
         <div className="contact-address">
           <p>Contact Us For Business</p>
+          <p> 08030960761</p>
           <p> 08103568291</p>
-          <p> 08085380445</p>
-          <p> contact@zeespacenigeria.com OR zeespacenig@gmail.com</p>
+          <p> zeespacenig@gmail.com OR contact@zeespacenigeria.com </p>
 
           <div className="icons">
             <Link href={"www.twitter.com/zeespacenigeria"}>

@@ -181,9 +181,9 @@ const HomePage = ({ theme, companyArray }) => {
           <div className={"partnersbody"}>
             <div className={"partnersbodyOne"}>
               <p>
-                Together with our partner Peter O. Communications Nigeria
-                Limited, we shape the future of digital World And
-                Entertainments.
+                Together with our Partner{" "}
+                <b>Peter O. Communications Nigeria Limited</b> , we shape the
+                future of digital World And Entertainments.
               </p>
             </div>
             <div className={"partnersbodyTwo"}>

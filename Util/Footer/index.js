@@ -12,7 +12,7 @@ export const FooterArray = [
       {
         image: Image,
         imageText: "ZEESPACE NIGERIA",
-        text: "4 Fred Avenue, Phase 1 Jikwoyi Abuja NG.",
+        text: "341 Area D, Nyanya, off express way Abuja NG.",
         classbody: "firstClassbody",
         classname: "firstClassname",
         classitem: "firstClassitem",
@@ -42,7 +42,7 @@ export const FooterArray = [
           },
           {
             linkIcon: BsLinkedin,
-            link: "https://www.twitter.com/zeespace-nigeria",
+            link: "https://www.linkedin.com/zeespace-nigeria",
             classbody: "linkbody",
             classname: "linkclass",
             classlinkicon: "linkicon",
@@ -89,7 +89,7 @@ export const FooterArray = [
           {
             linkIcon: FiChevronRight,
             link: "https://drive.google.com/file/d/1RsWVXh--xT0z4h2uKi1tsp7GtPrS6D0D/view?usp=drivesdk",
-            linkText: "privacy policy",
+            linkText: "Privacy Policy",
             classbody: "linkbodyText",
             classname: "linkclassText",
             classlinkicon: "linkiconText",
@@ -179,6 +179,6 @@ export const FooterArray = [
   {
     classmain: "secondlayout",
     classname: "secondlayoutname",
-    text: "Zeespace Nigeria © 2022-2023.| All Rights Reserved.",
+    text: "Zeespace Nigeria © 2022-2024.| All Rights Reserved.",
   },
 ];
